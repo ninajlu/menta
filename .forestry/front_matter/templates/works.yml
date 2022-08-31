@@ -20,10 +20,11 @@ fields:
 - type: tag_list
   name: categories
   label: Categories
+  hidden: true
 - name: year
   default: 
   label: Year
-  hidden: false
+  hidden: true
   type: number
   config:
     required: true
