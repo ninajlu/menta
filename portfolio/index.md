@@ -1,8 +1,8 @@
 ---
 works_index: true
-hero_text: <strong>Mentā </strong><em>メンタ - Japanese for "mentor"<br></em>We help
-  Magnet students find mentorship with alumni who understand what they are going through.
-  <br>
+hero_text: "<strong>Mentā </strong><em>メンタ (Japanese) - mentor<br></em>We help Magnet
+  students find mentorship with alumni who understand what they are going through.
+  <br>"
 title: Hero
 
 ---
