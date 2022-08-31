@@ -19,7 +19,7 @@
     },
     {
       "text": "About",
-      "link": "/journal/",
+      "link": "/journal/about.html",
       "position": "right",
       "external": false
     }
