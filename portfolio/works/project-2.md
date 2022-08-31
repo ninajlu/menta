@@ -1,7 +1,7 @@
 ---
 title: Find a Mentor!
 date: 2018-08-09T18:05:37.000+00:00
-thumbnail: "/upload/photo-1516906736502-5d3fedc3019a.jpeg"
+thumbnail: "/upload/1k859y.jpeg"
 year: 2022
 description: Request a Magnet Alumni mentor!
 categories: []
@@ -11,7 +11,7 @@ categories: []
 
 Request a mentor [here](https://forms.gle/4uVBArHg7LWQ5QvBA)!
 
-![](/upload/photo-1516906736502-5d3fedc3019a.jpeg)
+![](/upload/1k859y.jpeg)
 
 <p align="center">
 
