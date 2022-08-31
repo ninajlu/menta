@@ -1,9 +1,9 @@
 {
   "title": "Menta",
   "description": "Mentorship network connecting MBHS Magnet students with alumni",
-  "logo": "/upload/logo.svg",
+  "logo": "/upload/modern-brand-name-initials-signature-typography-logo.png",
   "footer": "Ⓒ Menta",
-  "favicon": "favicon-32x32.png",
+  "favicon": "/upload/modern-brand-name-initials-signature-typography-logo.png",
   "navigation": [
     {
       "text": "Works",
