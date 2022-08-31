@@ -5,9 +5,9 @@ excerpt: This works like expected, this text is only visible on the front page w
   all the journal posts are listed
 
 ---
-# Menta メンター
+# Mentā メンター
 
-Let's check out how we can manage the content from within Forestry and automatically deploy our VuePress site.
+Mentā is the Japanese word for "mentor"
 
 ## Manage your content with Forestry
 
