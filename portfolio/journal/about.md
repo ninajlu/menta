@@ -12,7 +12,9 @@ _Mentā is the Japanese word for "mentor."_
 
 ## My why:
 
-![](/upload/julienina.png)Growing up, my older sister Julie was my guide and mentor for key decisions like where I should go to college, what I should study, and what job I should take. She was also a shoulder to cry on when I failed and she was my relentless cheerleader through it all. My goal with Menta is to help every Magnet student find an honorary older sibling, someone they can talk to about everything without judgement and someone who understands what it's like to be a Magnet high school student.
+![](/upload/julienina.png)
+
+Growing up, my older sister Julie was my guide and mentor for key decisions like where I should go to college, what I should study, and what job I should take. She was also a shoulder to cry on when I failed and she was my relentless cheerleader through it all. My goal with Menta is to help every Magnet student find an honorary older sibling, someone they can talk to about everything without judgement and someone who understands what it's like to be a Magnet high school student.
 
 ## About me:
 
