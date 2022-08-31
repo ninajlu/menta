@@ -6,12 +6,6 @@
   "favicon": "/upload/modern-brand-name-initials-signature-typography-logo-1.png",
   "navigation": [
     {
-      "text": "Works",
-      "link": "/",
-      "position": "left",
-      "external": false
-    },
-    {
       "text": "Say hi!",
       "link": "mailto:ninajlu@gmail.com",
       "position": "right",
