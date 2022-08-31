@@ -1,6 +1,7 @@
 ---
 works_index: true
-hero_text: "<strong>We're Acme</strong>, we work for brands. But most importantly, we work for fun."
+hero_text: "<strong>Mentā - </strong>We help Magnet students find mentorship with
+  alumni who understand what they are going through. <br>"
 title: Hero
 
 ---
